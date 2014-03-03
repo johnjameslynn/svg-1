@@ -7,7 +7,7 @@ SVG
 
 This is normal text preceding
 
->A block quote such as this. Interesint...
+>A block quote such as this. Interesing...
 
 *Italics with a star!*
 
